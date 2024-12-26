@@ -5,6 +5,6 @@ Key Features:
 1. Modular Design: Easily integrate new object detection models.
 2. ROS 2 Integration: Seamlessly publish and subscribe to ROS 2 topics.
 
-git clone https://github.com/ParthKharche1/ros2_object_detection.git
-cd ros2_object_detection
-
+git clone -> https://github.com/ParthKharche1/ros2_object_detection.git
+              cd ros2_object_detection
+    
