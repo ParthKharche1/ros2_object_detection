@@ -33,7 +33,7 @@ Update the setup.py
 ```
 
 ## 2. Write the Detection Node (yolo_detection.py)
-[CODE]()
+[CODE](https://github.com/ParthKharche1/ros2_object_detection/blob/main/yolov10_detection.py)
 
 ## 3. Build the package:
     cd ~/ros2_ws
